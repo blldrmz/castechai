@@ -1,4 +1,4 @@
-Contact: mailto:sales@virexa-tech.com
+Contact: mailto:info@castechai.com
 Expires: 2027-10-28T00:00:00.000Z
 Preferred-Languages: en, cs, de, ru
 Canonical: https://castechai.com/.well-known/security.txt
